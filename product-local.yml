@@ -1,4 +1,4 @@
-spring:
-  profiles: local
-  application:
-    name: product
+com:
+  zinu:
+    profile: local
+    region: product
