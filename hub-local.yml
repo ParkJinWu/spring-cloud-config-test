@@ -1,4 +1,4 @@
-spring:
-  profiles: local
-  application:
-    name: hub  # 애플리케이션 이름
+com:
+  zinu:
+    profile: local
+    region: hub
